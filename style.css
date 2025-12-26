@@ -1,3 +1,12 @@
 body{
   background-color: black;
 }
+#ammunition{
+  text-align: left;
+}
+#accompaniments{
+  text-align: center;
+}
+#balance boost{
+  text-align: right;
+}
