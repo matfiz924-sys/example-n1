@@ -3,17 +3,17 @@ body{
 }
 h1{
   ext-align: center;
-  color: yellow;
+  text-color: yellow;
 }
 #ammunition{
   text-align: left;
-  color: yellow;
+  text-color: yellow;
 }
 #accompaniments{
   text-align: center;
-  color: yellow;
+  text-color: yellow;
 }
 #balance boost{
   text-align: right;
-  color: yellow;
+  text-color: yellow;
 }
