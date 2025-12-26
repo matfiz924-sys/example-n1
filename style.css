@@ -1,12 +1,19 @@
 body{
   background-color: black;
 }
+h1{
+  ext-align: center;
+  color: yellow;
+}
 #ammunition{
   text-align: left;
+  color: yellow;
 }
 #accompaniments{
   text-align: center;
+  color: yellow;
 }
 #balance boost{
   text-align: right;
+  color: yellow;
 }
